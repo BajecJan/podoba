@@ -1,0 +1,29 @@
+ header {
+ 	height: 200px;
+ 	width: 950px;
+ 	background-color: chocolate;
+ }
+
+ footer {
+ 	height: 50px;
+ 	width: 950px;
+ 	background-color: darkorange;
+ }
+
+ main {
+ 	height: 600px;
+ 	width: 450px;
+ 	background-color: goldenrod;
+ 	text-align: center;
+ 	
+ }
+
+ aside {
+ 	height: 600px;
+ 	width: 250px;
+ 	background-color: darkgoldenrod;
+ }
+
+.Kvadrat {
+	display: flex;
+}
